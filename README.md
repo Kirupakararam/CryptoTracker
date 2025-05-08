@@ -28,4 +28,6 @@ Deployment: GitHub Pages
 Live Preview:
 🔗 View Live Website : https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--4d9fd228.local-credentialless.webcontainer-api.io/
 
+Video link : https://screenrec.com/share/ZQLcWhdpPG
+
   ![image](https://github.com/user-attachments/assets/6bc50bfa-8692-4308-b29e-196fc3b65a2d)
